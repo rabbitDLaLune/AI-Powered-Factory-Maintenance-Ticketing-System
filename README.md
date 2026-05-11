@@ -1,16 +1,8 @@
 # AI-Powered Factory Maintenance Ticketing System
 
-An AI-powered factory maintenance ticketing system designed for manufacturing environments. This project helps manage machine breakdown tickets, technician assignments, repair status, downtime tracking, root cause records, and maintenance reports.
+An AI-powered maintenance management system designed for manufacturing environments. The system helps manage machine breakdown tickets, technician assignments, repair status, downtime tracking, root cause records, and maintenance analytics.
 
-The system includes AI-assisted features such as ticket priority suggestion, possible root cause analysis, recommended maintenance actions, and estimated repair time. It is built as a full-stack portfolio project using React, TypeScript, Python FastAPI, MySQL, and AI-assisted maintenance logic.
-
-> This project is shared as a portfolio project. You are allowed to use, modify, and distribute this project under the MIT License, but the original copyright notice and author credit must be included.
-
-## Project Purpose
-
-This project was developed as a software engineering portfolio project to demonstrate full-stack system development, backend API design, database integration, dashboard analytics, and AI-assisted decision support for factory maintenance operations.
-
-The system is suitable for demonstrating digitalisation in manufacturing environments, where maintenance teams need to record machine issues, assign technicians, monitor repair progress, and analyse breakdown patterns.
+It includes AI-assisted features such as ticket priority suggestion, possible root cause analysis, recommended maintenance actions, and estimated repair time to support faster and more organized maintenance operations.
 
 ## Features
 
